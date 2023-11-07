@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Current Laguages: 
+
+<h1>Current Laguages: </h1>
  <a href="#">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" style="">
   </a>  
@@ -11,15 +12,12 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="" style="">
   </a> 
 
-
-
-### Current Framework: 
+<h1>Current Framework: </h1>
    <a href="#">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="" style="">
   </a>  
-
-
-### Current Tools: 
+ 
+<h1>Current Tools:</h1>
    <a href="#">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" style="">
   </a>  
@@ -28,7 +26,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="" style="">
   </a>  
 
-### Also interested in: 
+<h1>Also interested in: </h1>
    <a href="#">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="" style="">
   </a>  
