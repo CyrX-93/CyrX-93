@@ -2,10 +2,10 @@
 
 ### Current Laguages: 
  <a href="#">
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="" style="">
+    <img src="./assets/img/languages/html.png" alt="" style="">
   </a>  
    <a href="#">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="" style="">
+    <img src="./assets/img/languages/css3.png" alt="" style="">
   </a>  
    <a href="#">
     <img src="./assets/img/languages/js.png" alt="" style="">
