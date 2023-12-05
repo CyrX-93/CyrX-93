@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://github.com/CyrX-93/CyrX-93/raw/main/assets/DC_Banner_GIF_high.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Andreas aka. CyrX, 30y old and i'm from germany.</p>
@@ -55,6 +61,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1130148567" alt="Spotify recently played"  />
   </a>
 </div>
-<div align="center">
-  <img height="200" src="https://github.com/CyrX-93/CyrX-93/raw/main/assets/DC_Banner_GIF_high.gif"  />
-</div>
+
