@@ -57,5 +57,5 @@
 ###
 
 <div align="center">
-<img height="200" src="https://github.com/CyrX-93/CyrX-93/raw/main/assets/DC_Banner_GIF_high.gif"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1130148567)
 </div>
