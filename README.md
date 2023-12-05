@@ -48,6 +48,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
+<div align="left">
+  <a href="https://open.spotify.com/user/CyrX">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=CyrX&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
 <img height="200" src="https://github.com/CyrX-93/CyrX-93/raw/main/assets/DC_Banner_GIF_high.gif"  />
 </div>
