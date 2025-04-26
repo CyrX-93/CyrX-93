@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">Planed to Learn in 2024</h2>
+<h2 align="left">Planed to Learn in 2025</h2>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
