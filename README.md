@@ -17,8 +17,7 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,lua" height="40" alt="lua logo"  />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,lua" height="40" alt="Coding With"  />
 </div>
 
 ###
@@ -26,25 +25,15 @@
 <h2 align="left">Currently Learning</h2>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" height="40" alt="typescript logo"  />
-
-
+<img src="https://skillicons.dev/icons?i=bootstrap,ts,docker" height="40" alt="Currently Learning"  />
 </div>
 
 ###
 
-<h2 align="left">Planed to Learn in 2025</h2>
+<h2 align="left">Planed to Learn</h2>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+<img src="https://skillicons.dev/icons?i=sass,react,vue" height="40" alt="Planed Learning"  />
 </div>
 
 ###
@@ -52,15 +41,7 @@
 <h2 align="left">Programs i use</h2>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+<img src="https://skillicons.dev/icons?i=vscode,ps,github" height="40" alt="Programs Using"  />
 </div>
 
 ###
