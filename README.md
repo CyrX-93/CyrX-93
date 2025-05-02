@@ -36,6 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" height="40" alt="typescript logo"  />
+
 
 </div>
 
