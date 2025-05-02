@@ -6,7 +6,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Andreas aka. CyrX, 30y old and i'm from germany.</p>
+<p align="left">My name is Andreas aka. CyrX, 32y old and i'm from germany.</p>
 
 <h2 align="left">About me</h2>
 
