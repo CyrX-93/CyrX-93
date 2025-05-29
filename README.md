@@ -42,7 +42,7 @@
 <h2 align="left">Programs i use</h2>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=vscode,ps,github" height="40" alt="Programs Using"  />
+<img src="https://skillicons.dev/icons?i=vscode,ps,github,docker" height="40" alt="Programs Using"  />
 </div>
 
 ###
