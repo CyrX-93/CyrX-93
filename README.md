@@ -25,7 +25,7 @@
 <h2 align="left">Currently Learning</h2>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,ts,docker" height="40" alt="Currently Learning"  />
+<img src="https://skillicons.dev/icons?i=docker,react,nextjs,tailwind" height="40" alt="Currently Learning"  />
 </div>
 
 ###
@@ -33,7 +33,8 @@
 <h2 align="left">Planed to Learn</h2>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=sass,react,vue" height="40" alt="Planed Learning"  />
+    Currently settled for nothing further. Will be updated with more progress after current learning projects
+<!-- <img src="https://skillicons.dev/icons?i=sass,ts,vue" height="40" alt="Planed Learning"  /> -->
 </div>
 
 ###
