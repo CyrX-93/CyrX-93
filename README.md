@@ -25,7 +25,7 @@
 <h2 align="left">Currently Learning</h2>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=docker,react,nextjs,tailwind" height="40" alt="Currently Learning"  />
+<img src="https://skillicons.dev/icons?i=docker,react,nextjs,tailwind,vue" height="40" alt="Currently Learning"  />
 </div>
 
 ###
